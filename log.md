@@ -1,30 +1,18 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 2020
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 23 May
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: worked on freeCodeCamp's API and microservices certification
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I felt pretty good about this. I discovered Glitch and I like that it's so much faster than setting up a Node project manually. The courses were mainly a reminder, not sure if it was worth it to take notes. Projects were straighforward, what took a while was figuring out how to deal with invalid dates.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Links to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Courses:
+- [Managing Packages with Npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
+- [Basic Node and Express](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Projects:
+- [Timestamp microservice](https://jungle-shocking-star.glitch.me)
+- [Request header parser microservice](https://remarkable-cheddar-attempt.glitch.me)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
