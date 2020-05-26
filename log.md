@@ -26,3 +26,14 @@ Projects:
 
 - Course: [MongoDB and Mongoose](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/)
 - Project (WIP): [URL shortener](https://tree-lively-lathe.glitch.me)
+
+### Day 3: 25 May
+
+**Today's Progress**: I implemented a naive version of the create short url use case based on `_id`.
+
+**Thoughts**: At 24 characters, `_id` is too long for a short url. I need to implement something better. But at least it deals with the database and it returns a json object as per the specs.
+
+**Links to work**: 
+
+- Project (WIP): [URL shortener](https://tree-lively-lathe.glitch.me)
+
